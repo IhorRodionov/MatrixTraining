@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603439107 source:c:\users\ihor\desktop\c++ projects\matrixdet\matrix\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
